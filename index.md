@@ -6,4 +6,4 @@
 - [pollenjp - DEV Profile](https://dev.to/pollenjp)
 - [medium](https://medium.com/)
 
-<a class="twitter-timeline" href="https://twitter.com/polleninjp?ref_src=twsrc%5Etfw">Tweets by polleninjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="750" href="https://twitter.com/polleninjp?ref_src=twsrc%5Etfw">Tweets by polleninjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
