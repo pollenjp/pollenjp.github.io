@@ -5,6 +5,8 @@
 ### Now Reading
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識 (2018年2月23日)](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
 
+<img src="/img/20180223-試して理解Linuxのしくみ.png" alt=""> <img src="/img/20180223-試して理解Linuxのしくみ.png" alt="">
+
 ### Going to Read
 - [ゲームプログラミングC++ (2018年12月05日)](https://www.shoeisha.co.jp/book/detail/9784798157610)
 
