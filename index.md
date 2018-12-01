@@ -6,7 +6,7 @@
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識 (2018年2月23日)](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
 - [C++で学ぶディープラーニング (2017年06月26日)](https://book.mynavi.jp/ec/products/detail/id=72844)
 
-[<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9) [<img width="100px" src="/img/20170626-C++で学ぶディープラーニング.png" alt="">]](https://book.mynavi.jp/ec/products/detail/id=72844)
+[<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9) [<img width="100px" src="/img/20170626-C++で学ぶディープラーニング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=72844)
 
 ### Going to Read
 - [ゲームプログラミングC++ (2018年12月05日)](https://www.shoeisha.co.jp/book/detail/9784798157610)
