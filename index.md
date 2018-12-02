@@ -5,13 +5,25 @@
 ### Now Reading
 - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識 (2018年2月23日)](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
 - [C++で学ぶディープラーニング (2017年06月26日)](https://book.mynavi.jp/ec/products/detail/id=72844)
+- [『ＯｐｅｎＣＶによる画像処理入門』（小枝　正直，上田　悦子，中村　恭之）｜講談社BOOK倶楽部 (2014年07月18日
+)](http://bookclub.kodansha.co.jp/product?item=0000148212)
+- [Pattern Recognition and Machine Learning | Christopher Bishop | Springer](https://www.springer.com/jp/book/9780387310732)
 
-[<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9) [<img width="100px" src="/img/20170626-C++で学ぶディープラーニング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=72844)
+[<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
+[<img width="100px" src="/img/20170626-C++で学ぶディープラーニング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=72844)
+[<img width="100px" src="/img/20140718-ＯｐｅｎＣＶによる画像処理入門.png" alt="">](http://bookclub.kodansha.co.jp/product?item=0000148212)
+[<img width="100px" src="/img/2006-Pattern Recognition and Machine Learning.png" alt="">](https://www.springer.com/jp/book/9780387310732)
+
+
 
 ### Going to Read
 - [ゲームプログラミングC++ (2018年12月05日)](https://www.shoeisha.co.jp/book/detail/9784798157610)
+- [『ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門』（中村　恭之，小枝　正直，上田　悦子）｜講談社BOOK倶楽部 (2017年08月05日
+)](http://bookclub.kodansha.co.jp/product?item=0000148220)
 
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.shoeisha.co.jp/book/detail/9784798157610)
+[<img width="100px" src="/img/20170805-ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門.png" alt="">](http://bookclub.kodansha.co.jp/product?item=0000148220)
+
 
 ### Have Read
 
