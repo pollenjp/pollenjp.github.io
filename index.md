@@ -7,7 +7,7 @@
 - [C++で学ぶディープラーニング (2017年06月26日)](https://book.mynavi.jp/ec/products/detail/id=72844)
 - [『ＯｐｅｎＣＶによる画像処理入門』（小枝　正直，上田　悦子，中村　恭之）｜講談社BOOK倶楽部 (2014年07月18日
 )](http://bookclub.kodansha.co.jp/product?item=0000148212)
-- [Pattern Recognition and Machine Learning | Christopher Bishop | Springer (2016)](https://www.springer.com/jp/book/9780387310732)
+- [Pattern Recognition and Machine Learning - Christopher Bishop - Springer (2016)](https://www.springer.com/jp/book/9780387310732)
 
 [<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
 [<img width="100px" src="/img/20170626-C++で学ぶディープラーニング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=72844)
