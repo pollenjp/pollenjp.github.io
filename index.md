@@ -3,16 +3,18 @@
 ## Read Books
 
 ### Now Reading
-- [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識 (2018年2月23日)](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
-- [C++で学ぶディープラーニング (2017年06月26日)](https://book.mynavi.jp/ec/products/detail/id=72844)
-- [『ＯｐｅｎＣＶによる画像処理入門』（小枝　正直，上田　悦子，中村　恭之）｜講談社BOOK倶楽部 (2014年07月18日
-)](http://bookclub.kodansha.co.jp/product?item=0000148212)
-- [Pattern Recognition and Machine Learning - Christopher Bishop - Springer (2016)](https://www.springer.com/jp/book/9780387310732)
+- [[20180223] ［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
+- [[20170626] C++で学ぶディープラーニング](https://book.mynavi.jp/ec/products/detail/id=72844)
+- [20140718] 『ＯｐｅｎＣＶによる画像処理入門』（小枝　正直，上田　悦子，中村　恭之）｜講談社BOOK倶楽部](http://bookclub.kodansha.co.jp/product?item=0000148212)
+- [[2016]Pattern Recognition and Machine Learning - Christopher Bishop - Springer](https://www.springer.com/jp/book/9780387310732)
 - [新編　画像解析ハンドブック - 東京大学出版会](http://www.utp.or.jp/book/b301997.html)
-- [nginx実践入門 - Gihyo Digital Publishing 技術評論社の電子書籍 (2016年01月16日)](https://gihyo.jp/dp/ebook/2016/978-4-7741-7936-0)
+- [[20160116]nginx実践入門 - Gihyo Digital Publishing 技術評論社の電子書籍](https://gihyo.jp/dp/ebook/2016/978-4-7741-7936-0)
 - [Discrete-time Signal Processing, 2nd, Second Edition (1999)](http://a.co/d/cTQd1HC)
 - [【Online Book】Introduction - Vulkan Tutorial](https://vulkan-tutorial.com/#page_E_book)
 - [【Online Book】Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+- [ゲーム作りで学ぶ! 実践的C言語プログラミング Nishio](https://densan-labs.net/_downloads/gameProgramming.pdf) - [自分用リンク](https://drive.google.com/file/d/1Df1ezfSZRFsvUaRz2G36JQH3etPaqKLR/view?usp=sharing)
+- [ゲームプログラミング講習 第3章 ゲーム作成](http://nanzanmmcwiki.net/_media/pc/lecture/game/2015/03-game.pdf) - [自分用リンク](https://drive.google.com/file/d/1JdkPLpVAfeWC3B9NaHnOAgKbvryY7710/view?usp=sharing)
+  - cppでブロック崩しゲーム
 
 
 [<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
