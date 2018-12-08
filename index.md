@@ -27,7 +27,7 @@
 [<img width="100px" src="/img/1999-Discrete-time Signal Processing, 2nd, Second Edition.png" alt="">](http://a.co/d/cTQd1HC)
 
 
-### Going to Read
+### Want to Read
 - [ゲームプログラミングC++ (2018年12月05日)](https://www.seshop.com/product/detail/22519)
 - [『ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門』（中村　恭之，小枝　正直，上田　悦子）｜講談社BOOK倶楽部 (2017年08月05日
 )](http://bookclub.kodansha.co.jp/product?item=0000148220)
@@ -35,12 +35,16 @@
 - [ゲーム作りで学ぶ! 実践的C言語プログラミング Nishio](https://densan-labs.net/_downloads/gameProgramming.pdf) - [自分用リンク](https://drive.google.com/file/d/1Df1ezfSZRFsvUaRz2G36JQH3etPaqKLR/view?usp=sharing)
 - [ゲームプログラミング講習 第3章 ゲーム作成](http://nanzanmmcwiki.net/_media/pc/lecture/game/2015/03-game.pdf) - [自分用リンク](https://drive.google.com/file/d/1JdkPLpVAfeWC3B9NaHnOAgKbvryY7710/view?usp=sharing)
   - cppでブロック崩しゲーム
+- [WebGL Insights 日本語版 Patric Cozzi(編), あんどうやすし(訳) - アスキードワンゴ (電子版 - 達人出版会)](https://tatsu-zine.com/books/webgl-insights)
+  
 
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
 [<img width="100px" src="/img/20170805-ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門.png" alt="">](http://bookclub.kodansha.co.jp/product?item=0000148220)
 [<img width="100px" src="/img/20180509-ソースコードで体感するネットワークの仕組み-～手を動かしながら基礎からTCP-IPの実装までがわかる.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9745-6)
 [<img width="100px" src="/img/ゲーム作りで学ぶ!実践的C言語プログラミングNishio.png" alt="">](https://densan-labs.net/_downloads/gameProgramming.pdf)
 [<img width="150px" src="/img/ゲームプログラミング講習第3章ゲーム作成.png" alt="">](http://nanzanmmcwiki.net/_media/pc/lecture/game/2015/03-game.pdf)
+[<img width="100px" src="/img/20180824_WebGL_Insights日本語版.jpg" alt="">](https://tatsu-zine.com/books/webgl-insights)
+
 
 
 
