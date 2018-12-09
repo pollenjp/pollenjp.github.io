@@ -7,8 +7,8 @@
 - MS Windows
 - Apple macOS
 
-あれ (^ ^;)\
-Linuxさんは？\
+あれ (^ ^;)<br>
+Linuxさんは？<br>
 僕はLinux (Ubuntu) でやろうっと。
 
 
