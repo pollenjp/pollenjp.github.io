@@ -12,3 +12,16 @@ Linuxさんは？<br>
 僕はLinux (Ubuntu) でやろうっと。
 
 
+- ソースコード
+  - https://github.com/gameprogcpp/code
+    - やはりWindowsとmacOS用しかない...
+- C++ライブラリ
+  - [SDL (Simple DirectMedia Layer)](https://www.libsdl.org/)
+    - クラスプラットフォーム
+    - [Installation - SDL Wiki](http://wiki.libsdl.org/Installation)
+      - Ubuntuだとaptで提供されている。
+        ```
+        $ sudo apt install -y libsdl2-2.0 libsdl2-dev
+        ```
+      - その他のディストリビューションに関してはリンク先を参照
+
