@@ -15,9 +15,8 @@ Linuxさんは？<br>
 - ソースコード
   - https://github.com/gameprogcpp/code
     - やはりWindowsとmacOS用しかない...
-- C++ライブラリ
+- C++クラスプラットフォームライブラリ
   - [SDL (Simple DirectMedia Layer)](https://www.libsdl.org/)
-    - クラスプラットフォーム
     - [Installation - SDL Wiki](http://wiki.libsdl.org/Installation)
       - Ubuntuだとaptで提供されている。
         ```
