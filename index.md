@@ -3,6 +3,9 @@
 ## Table of Contents
 - [gist](/gist)
   - index.md
+- [posts](/posts)
+  - [index.md](/posts)
+  - [ゲームプログラミングC＋＋_CH01_MEMO.md](/posts/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0C%EF%BC%8B%EF%BC%8B_CH01_MEMO.html)
 
 ## Read Books
 
