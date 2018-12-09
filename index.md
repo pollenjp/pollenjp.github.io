@@ -45,6 +45,7 @@
 - [[20170915] 大熱血！アセンブラ入門 - 坂井弘亮](http://kozos.jp/books/asm/)
 - [[20171214] 自作PCクラスタ超入門 ゼロからはじめる並列計算環境の構築と運用](https://www.morikita.co.jp/books/book/3232)
 - [[20171025] コンパイラ作りながら学ぶ](https://www.ohmsha.co.jp/book/9784274221163/)
+- [[201808] Raspberry Piでスーパーコンピュータをつくろう！](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124370)
   
 
 [<img width="100px" src="/img/20170805-ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門.png" alt="">](http://bookclub.kodansha.co.jp/product?item=0000148220)
@@ -57,7 +58,7 @@
 [<img width="100px" src="/img/20170915_大熱血アセンブラ入門.png" alt="">](http://kozos.jp/books/asm/)
 [<img width="100px" src="/img/20171214_自作PCクラスタ超入門ゼロからはじめる並列計算環境の構築と運用.png" alt="">](https://www.morikita.co.jp/books/book/3232)
 [<img width="100px" src="/img/20171025_コンパイラ作りながら学ぶ.png" alt="">](https://www.ohmsha.co.jp/book/9784274221163/)
-
+[<img width="100px" src="/img/201808_RaspberryPiでスーパーコンピュータをつくろう.png" alt="">](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124370)
 
 
 ### Have Read
