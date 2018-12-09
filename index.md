@@ -39,6 +39,7 @@
 - [ゲームプログラミング講習 第3章 ゲーム作成](http://nanzanmmcwiki.net/_media/pc/lecture/game/2015/03-game.pdf) - [自分用リンク](https://drive.google.com/file/d/1JdkPLpVAfeWC3B9NaHnOAgKbvryY7710/view?usp=sharing)
   - cppでブロック崩しゲーム
 - [WebGL Insights 日本語版 Patric Cozzi(編), あんどうやすし(訳) - アスキードワンゴ (電子版 - 達人出版会)](https://tatsu-zine.com/books/webgl-insights)
+- [[20150328] ゲームエンジンアーキテクチャ第２版](https://www.sbcr.jp/products/4797377484.html)
   
 
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
@@ -47,6 +48,7 @@
 [<img width="100px" src="/img/ゲーム作りで学ぶ!実践的C言語プログラミングNishio.png" alt="">](https://densan-labs.net/_downloads/gameProgramming.pdf)
 [<img width="150px" src="/img/ゲームプログラミング講習第3章ゲーム作成.png" alt="">](http://nanzanmmcwiki.net/_media/pc/lecture/game/2015/03-game.pdf)
 [<img width="100px" src="/img/20180824_WebGL_Insights日本語版.jpg" alt="">](https://tatsu-zine.com/books/webgl-insights)
+[<img width="100px" src="/img/20150328_ゲームエンジンアーキテクチャ第２版.png" alt="">](https://www.sbcr.jp/products/4797377484.html)
 
 
 
