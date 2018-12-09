@@ -40,6 +40,8 @@
   - cppでブロック崩しゲーム
 - [WebGL Insights 日本語版 Patric Cozzi(編), あんどうやすし(訳) - アスキードワンゴ (電子版 - 達人出版会)](https://tatsu-zine.com/books/webgl-insights)
 - [[20150328] ゲームエンジンアーキテクチャ第２版](https://www.sbcr.jp/products/4797377484.html)
+- [[20180214] Linuxとpthreadsによる マルチスレッドプログラミング入門 (プログラミング基礎講座)](http://amzn.asia/d/eeK1hVz)
+- [大熱血！アセンブラ入門 - 坂井弘亮](http://kozos.jp/books/asm/)
   
 
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
@@ -49,7 +51,8 @@
 [<img width="150px" src="/img/ゲームプログラミング講習第3章ゲーム作成.png" alt="">](http://nanzanmmcwiki.net/_media/pc/lecture/game/2015/03-game.pdf)
 [<img width="100px" src="/img/20180824_WebGL_Insights日本語版.jpg" alt="">](https://tatsu-zine.com/books/webgl-insights)
 [<img width="100px" src="/img/20150328_ゲームエンジンアーキテクチャ第２版.png" alt="">](https://www.sbcr.jp/products/4797377484.html)
-
+[<img width="100px" src="/img/20180214_Linuxとpthreadsによる マルチスレッドプログラミング入門.png" alt="">](http://amzn.asia/d/eeK1hVz)
+[<img width="100px" src="/img/20170915_大熱血アセンブラ入門.png" alt="">](http://kozos.jp/books/asm/)
 
 
 
