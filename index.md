@@ -43,6 +43,7 @@
 - [[20180214] Linuxとpthreadsによる マルチスレッドプログラミング入門 (プログラミング基礎講座)](http://amzn.asia/d/eeK1hVz)
 - [[20170915] 大熱血！アセンブラ入門 - 坂井弘亮](http://kozos.jp/books/asm/)
 - [[20171214] 自作PCクラスタ超入門 ゼロからはじめる並列計算環境の構築と運用](https://www.morikita.co.jp/books/book/3232)
+- [[20171025] コンパイラ作りながら学ぶ](https://www.ohmsha.co.jp/book/9784274221163/)
   
 
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
@@ -55,6 +56,8 @@
 [<img width="100px" src="/img/20180214_Linuxとpthreadsによる マルチスレッドプログラミング入門.png" alt="">](http://amzn.asia/d/eeK1hVz)
 [<img width="100px" src="/img/20170915_大熱血アセンブラ入門.png" alt="">](http://kozos.jp/books/asm/)
 [<img width="100px" src="/img/20171214_自作PCクラスタ超入門ゼロからはじめる並列計算環境の構築と運用.png" alt="">](https://www.morikita.co.jp/books/book/3232)
+[<img width="100px" src="/img/20171025_コンパイラ作りながら学ぶ.png" alt="">](https://www.ohmsha.co.jp/book/9784274221163/)
+
 
 
 ### Have Read
