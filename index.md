@@ -41,7 +41,8 @@
 - [WebGL Insights 日本語版 Patric Cozzi(編), あんどうやすし(訳) - アスキードワンゴ (電子版 - 達人出版会)](https://tatsu-zine.com/books/webgl-insights)
 - [[20150328] ゲームエンジンアーキテクチャ第２版](https://www.sbcr.jp/products/4797377484.html)
 - [[20180214] Linuxとpthreadsによる マルチスレッドプログラミング入門 (プログラミング基礎講座)](http://amzn.asia/d/eeK1hVz)
-- [大熱血！アセンブラ入門 - 坂井弘亮](http://kozos.jp/books/asm/)
+- [[20170915] 大熱血！アセンブラ入門 - 坂井弘亮](http://kozos.jp/books/asm/)
+- [[20171214] 自作PCクラスタ超入門 ゼロからはじめる並列計算環境の構築と運用](https://www.morikita.co.jp/books/book/3232)
   
 
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
@@ -53,7 +54,7 @@
 [<img width="100px" src="/img/20150328_ゲームエンジンアーキテクチャ第２版.png" alt="">](https://www.sbcr.jp/products/4797377484.html)
 [<img width="100px" src="/img/20180214_Linuxとpthreadsによる マルチスレッドプログラミング入門.png" alt="">](http://amzn.asia/d/eeK1hVz)
 [<img width="100px" src="/img/20170915_大熱血アセンブラ入門.png" alt="">](http://kozos.jp/books/asm/)
-
+[<img width="100px" src="/img/20171214_自作PCクラスタ超入門ゼロからはじめる並列計算環境の構築と運用.png" alt="">](https://www.morikita.co.jp/books/book/3232)
 
 
 ### Have Read
