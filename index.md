@@ -23,6 +23,7 @@
 - [【Online Book】Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
 - [ゲームプログラミングC++ (2018年12月05日)](https://www.seshop.com/product/detail/22519)
 - [[201808] Pythonによる深層強化学習入門ChainerとOpenAIGymではじめる強化学習](https://www.ohmsha.co.jp/book/9784274222535/)
+- [[20160608] 強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習](https://book.mynavi.jp/ec/products/detail/id=52804)
 
 
 [<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
@@ -34,6 +35,8 @@
 [<img width="100px" src="/img/1999-Discrete-time Signal Processing, 2nd, Second Edition.png" alt="">](http://a.co/d/cTQd1HC)
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
 [<img width="100px" src="/img/201808_Pythonによる深層強化学習入門ChainerとOpenAIGymではじめる強化学習.png" alt="">](https://www.ohmsha.co.jp/book/9784274222535/)
+[<img width="100px" src="/img/20160608_強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
+
 
 
 ### Want to Read
