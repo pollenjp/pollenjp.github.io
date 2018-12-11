@@ -53,6 +53,7 @@
 - [[20171025] コンパイラ作りながら学ぶ](https://www.ohmsha.co.jp/book/9784274221163/)
 - [[201808] Raspberry Piでスーパーコンピュータをつくろう！](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124370)
 - [[20060928] マルチコアCPUのための並列プログラミング](http://amzn.asia/d/1YdsOm4)
+- [[200510] 命令レベル並列処理プロセッサアーキテクチャとコンパイラ並列処理シリーズ](http://amzn.asia/d/4rrsGB9)
 
 [<img width="100px" src="/img/20170805-ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門.png" alt="">](http://bookclub.kodansha.co.jp/product?item=0000148220)
 [<img width="100px" src="/img/20180509-ソースコードで体感するネットワークの仕組み-～手を動かしながら基礎からTCP-IPの実装までがわかる.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9745-6)
@@ -66,6 +67,7 @@
 [<img width="100px" src="/img/20171025_コンパイラ作りながら学ぶ.png" alt="">](https://www.ohmsha.co.jp/book/9784274221163/)
 [<img width="100px" src="/img/201808_RaspberryPiでスーパーコンピュータをつくろう.png" alt="">](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124370)
 [<img width="100px" src="/img/20060928_マルチコアCPUのための並列プログラミング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
+[<img width="100px" src="/img/200510_命令レベル並列処理プロセッサアーキテクチャとコンパイラ並列処理シリーズ.png" alt="">](http://amzn.asia/d/4rrsGB9)
 
 
 ### Have Read
