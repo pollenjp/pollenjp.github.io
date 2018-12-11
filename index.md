@@ -24,6 +24,7 @@
 - [ゲームプログラミングC++ (2018年12月05日)](https://www.seshop.com/product/detail/22519)
 - [[201808] Pythonによる深層強化学習入門ChainerとOpenAIGymではじめる強化学習](https://www.ohmsha.co.jp/book/9784274222535/)
 - [[20160608] 強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習](https://book.mynavi.jp/ec/products/detail/id=52804)
+- [[20060928] マルチコアCPUのための並列プログラミング](http://amzn.asia/d/1YdsOm4)
 
 
 [<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
@@ -36,7 +37,8 @@
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
 [<img width="100px" src="/img/201808_Pythonによる深層強化学習入門ChainerとOpenAIGymではじめる強化学習.png" alt="">](https://www.ohmsha.co.jp/book/9784274222535/)
 [<img width="100px" src="/img/20160608_強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
-
+[<img width="100px" src="/img/20160608_強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
+[<img width="100px" src="/img/20060928_マルチコアCPUのための並列プログラミング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
 
 
 ### Want to Read
