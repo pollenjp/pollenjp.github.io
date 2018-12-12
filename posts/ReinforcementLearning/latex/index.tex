@@ -1,0 +1,113 @@
+\documentclass[dvipdfmx,12px]{beamer}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 和文用
+\usepackage{bxdpx-beamer}
+\usepackage{pxjahyper}
+\usepackage{minijs}
+\renewcommand{\kanjifamilydefault}{\gtdefault}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% スライドの見た目
+\usetheme{Hannover}
+\usefonttheme{professionalfonts}
+\setbeamertemplate{frametitle}[default][left]
+\setbeamertemplate{navigation symbols}{}
+\setbeamercovered{transparent}
+\setbeamertemplate{footline}[page number]
+\setbeamerfont{footline}{size=\normalsize,series=\bfseries}
+\setbeamercolor{footline}{fg=black,bg=black}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% table of contents config
+\title{深層強化学習}
+\author{pollenJP}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+ 	\newcommand{\sectionTitleName}{}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{frame}
+  	\frametitle{title}
+  	\titlepage
+  \end{frame}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{frame}
+  	\frametitle{目次}
+	  \tableofcontents
+  \end{frame}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{frame}
+  	\frametitle{はじめに}
+	  今回、参考にした書籍を載せておきます。
+  \end{frame}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \section{強化学習}
+  	\AtBeginSection[]{}
+  	\begin{frame}
+  		\frametitle{Outline}
+  		\tableofcontents[currentsection]
+  	\end{frame}
+  	%%%%%%%%%%%%%%%%%%%%
+  	%%%%%%%%%%%%%%%%%%%%
+  	\renewcommand{\sectionTitleName}{最適制御理論 - Optimal Control Theory -} \subsection{\sectionTitleName{}}
+  		\AtBeginSubsection[]{}
+  		\begin{frame}<beamer>
+  			\frametitle{Outline}
+  			\tableofcontents[currentsection,currentsubsection]
+  		\end{frame}
+  		%%%%%%%%%%%%%%%%%%%%
+	  	%%%%%%%%%%%%%%%%%%%%
+			\begin{frame}
+				\frametitle{\sectionTitleName{}}
+				\begin{itemize}
+					\item 制御対象の状態を評価する目的関数の最大化・最小化によって制御
+						\begin{align*}
+							\text{目的関数 : } & \int_{0}^{T} {\rm cost}(x_t, u(x_t)) dt \\
+							\text{制約条件 : } & x'_t = g(x_t, u(x_t))
+						\end{align*}
+						\begin{align*}
+							T & \text{ : 制御の終了時刻}\\
+							x_t & \text{ : 制御対象の状態変数 : }\\
+							u(x) & \text{ : 状態}x\text{における制御命令} \\
+							{\rm cost(x)} & \text{ : 状態}x\text{において制御命令}u\text{を実行するコスト}
+						\end{align*}
+					\item この問題を解くことによってえられる$u^{*}(x)$を「最適な制御則」という。
+						$u^{*}(x)$に従う制御対象の奇跡$x^{*}_t$を「最適経路」という。
+				\end{itemize}
+			\end{frame}
+  	%%%%%%%%%%%%%%%%%%%%
+  	%%%%%%%%%%%%%%%%%%%%
+  	\renewcommand{\sectionTitleName}{動的計画法 - Dynamic Programming -} \subsection{\sectionTitleName{}}
+  		\AtBeginSubsection[]{}
+  		\begin{frame}<beamer>
+  			\frametitle{Outline}
+  			\tableofcontents[currentsection,currentsubsection]
+  		\end{frame}
+  		%%%%%%%%%%%%%%%%%%%%
+			\begin{frame}
+				\frametitle{\sectionTitleName{}}
+				\begin{description}
+					\item[動的計画法]
+						最適化問題を部分問題に分割し,各部分問題の解を求めて合わせることにより元の問題の解を得るというアルゴリズム.
+					\item[最適性原理]
+						Principal of Optimality.\\
+						任意の初期状態に関して決定した最適な制御則$u^{*}(x)$は,最適経路$x^{*}_t$上における残りの期間においても最適でなくてはならない.\\
+						Richard Bellman(1920-1984年).
+				\end{description}
+			\end{frame}
+	  	%%%%%%%%%%%%%%%%%%%%
+			\begin{frame}
+				\frametitle{\sectionTitleName{}}
+				最適制御問題を離散時間(タイムステップ$\Delta t = 1$)で最小コスト関数$J^{*}$以下のように表す。
+				\begin{align*}
+					J^{*}_0 (x_0) = {\rm min} \sum_{t=0}^{T} {\rm cost}(x_t, u(x_t))
+				\end{align*}
+				\begin{description}
+					\item[$J^{*}_0 (x_0)$] 状態$x_0$に関する時刻$0$から終了時刻$T$までの最小コストを出力する関数.
+					\item[$J^{*}_t (x_t)$] 状態$x_t$に関する時刻$t$から終了時刻$T$までの最小コストを出力する関数.
+				\end{description}
+			\end{frame}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
