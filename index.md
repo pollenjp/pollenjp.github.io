@@ -21,10 +21,13 @@
 - [Discrete-time Signal Processing, 2nd, Second Edition (1999)](http://a.co/d/cTQd1HC)
 - [【Online Book】Introduction - Vulkan Tutorial](https://vulkan-tutorial.com/#page_E_book)
 - [【Online Book】Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
-- [ゲームプログラミングC++ (2018年12月05日)](https://www.seshop.com/product/detail/22519)
+- [[20181205] ゲームプログラミングC++](https://www.seshop.com/product/detail/22519)
 - [[201808] Pythonによる深層強化学習入門ChainerとOpenAIGymではじめる強化学習](https://www.ohmsha.co.jp/book/9784274222535/)
 - [[20160608] 強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習](https://book.mynavi.jp/ec/products/detail/id=52804)
   - [サポート](https://book.mynavi.jp/support/el/RL_support/)
+- [[20150925] 【Online Book】C++11/14 コア言語](https://github.com/EzoeRyou/cpp-book)
+  - http://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml
+  - [C++11/14 コア言語【委託】 - 達人出版会](https://tatsu-zine.com/books/cpp-11-14-core)
 
 
 [<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
@@ -37,6 +40,8 @@
 [<img width="100px" src="/img/20181205-ゲームプログラミングC++.png" alt="">](https://www.seshop.com/product/detail/22519)
 [<img width="100px" src="/img/201808_Pythonによる深層強化学習入門ChainerとOpenAIGymではじめる強化学習.png" alt="">](https://www.ohmsha.co.jp/book/9784274222535/)
 [<img width="100px" src="/img/20160608_強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
+[<img width="100px" src="/img/20150925_C++11・14コア言語.png" alt="">](http://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml)
+
 
 
 ### Want to Read
