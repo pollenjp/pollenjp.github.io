@@ -17,8 +17,7 @@
 ---
 
 - <span id="fnkw1">[w1]</span> : __Performance Modelling__
-  - [What is Performance Modelling - definitions - Testing Performance](http://www.testingperformance.org/definitions/what-is-performance-modelling)
-    - エッジコンピューティングとは、エッジ処理とも呼ばれ、「端末の近くにサーバを分散配置する」ネットワーク技法のひとつを意味します。ユーザや端末の近くでデータ処理することで、上位システムへの負荷や通信遅延を解消する.
+  - > 対象のモデルがどのような動きをするかを数学的に近似することで, システム構成に対する, 様々なユーザやシステムの負荷をシミュレートすること. [What is Performance Modelling - definitions - Testing Performance](http://www.testingperformance.org/definitions/what-is-performance-modelling)
 - <span id="fnkw2">[w2]</span> : __Load Sharing Schemes__
   - そういうのがある
 - <span id="fnkw3">[w3]</span> : __Multi-access Edge Computing__
