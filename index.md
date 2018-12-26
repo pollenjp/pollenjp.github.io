@@ -64,7 +64,9 @@
 - [[20060928] マルチコアCPUのための並列プログラミング](http://amzn.asia/d/1YdsOm4)
 - [[200510] 命令レベル並列処理プロセッサアーキテクチャとコンパイラ並列処理シリーズ](http://amzn.asia/d/4rrsGB9)
 - [[20181207] ハッキング・ラボのつくりかた 仮想環境におけるハッカー体験学習](https://www.seshop.com/product/detail/22521)
+- [[201202] マスタリングTCPIP入門編 第5版](https://tatsu-zine.com/books/tcpip-mastering-basic5)
 
+[<img width="100px" src="/img/201202-マスタリングTCPIP入門編 第5版.jpg" alt="">](https://tatsu-zine.com/books/tcpip-mastering-basic5)
 [<img width="100px" src="/img/20170805-ＯｐｅｎＣＶによるコンピュータビジョン・機械学習入門.png" alt="">](http://bookclub.kodansha.co.jp/product?item=0000148220)
 [<img width="100px" src="/img/20180509-ソースコードで体感するネットワークの仕組み-～手を動かしながら基礎からTCP-IPの実装までがわかる.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9745-6)
 [<img width="100px" src="/img/ゲーム作りで学ぶ!実践的C言語プログラミングNishio.png" alt="">](https://densan-labs.net/_downloads/gameProgramming.pdf)
@@ -79,6 +81,7 @@
 [<img width="100px" src="/img/20060928_マルチコアCPUのための並列プログラミング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
 [<img width="100px" src="/img/200510_命令レベル並列処理プロセッサアーキテクチャとコンパイラ並列処理シリーズ.png" alt="">](http://amzn.asia/d/4rrsGB9)
 [<img width="100px" src="/img/20181207_ハッキング・ラボのつくりかた_仮想環境におけるハッカー体験学習.png" alt="">](https://www.seshop.com/product/detail/22521)
+
 
 
 ### Have Read
