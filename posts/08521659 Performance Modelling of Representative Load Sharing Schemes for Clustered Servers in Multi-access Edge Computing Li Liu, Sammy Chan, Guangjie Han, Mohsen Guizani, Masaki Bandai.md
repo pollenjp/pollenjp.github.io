@@ -10,7 +10,20 @@
   - Performance Modeling<sup>[w1](#fnkw1)</sup>
   - Load Sharing Schemes<sup>[w2](#fnkw2)</sup>
   - Multi-access Edge Computing<sup>[w3](#fnkw3)</sup>
-
+- Abstract
+- I. INTRODUCTION
+- II. RELATED WORK
+  - A. Energy efficiency of offloading
+  - B. Resource Allocation in MEC
+  - C. Task Assignment in Cloud-MEC System
+  - D. Load balancing in MEC
+- III. LOAD SHARING SCHEMES
+- IV. PERFORMANCE MODELS
+  - A. No Sharing
+  - B. Random Sharing
+  - C. Least Loaded Sharing
+- V. NUMERICAL RESULTS
+- VI. CONCLUSION
 
 
 
