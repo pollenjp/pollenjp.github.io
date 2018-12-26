@@ -23,6 +23,7 @@
   - そういうのがある
 - <span id="fnkw3">[w3]</span> : __Multi-access Edge Computing__
   - > マルチアクセス エッジ コンピューティング（MEC）によって、トラフィックとサービスのコンピューティングは一元化されたクラウドからネットワーク エッジに移り、ユーザーとの距離が近くなります。すべてのデータをクラウドに送信して処理するのではなく、ネットワーク エッジでデータを分析、処理、保存します。ユーザーに近い場所でデータの収集と処理を行うため、遅延が減り、広帯域幅アプリケーションをリアルタイムで実行できます。 ([マルチアクセス エッジ コンピューティングとは - ジュニパーネットワークス](https://www.juniper.net/jp/jp/products-services/what-is/multi-access-edge-computing/))
+  - > MEC には次のような特性があります。「近接性」「超低遅延」「広帯域幅」「仮想化」。 MEC では、クラウド コンピューティング機能と IT サービス環境をネットワーク エッジで利用することも可能です。一般に MEC はエッジに分散しているデータ センターに導入されます。エッジのアプリケーションには、広帯域幅かつ低遅延の環境が必要です。サービス プロバイダはこれを実現するために、分散データ センター、つまり分散クラウドを構築しています。クラウドを構成するリソースは、中央データ センター、セル サイト、本社、集約サイト、メトロ データ センター、顧客構内など、どこにあっても構いません。MEC プラットフォームは、サービスまたは CPE を使用してエッジでコンテンツを処理することで、分散エッジ コンピューティングを実現します。 ([マルチアクセス エッジ コンピューティングとは - ジュニパーネットワークス](https://www.juniper.net/jp/jp/products-services/what-is/multi-access-edge-computing/))
   - > MEC (Multi-access Edge Computing) によってアプリケーション開発者とコンテンツ提供者にクラウドコンピューティング<sup>[w4](#fnkw4)</sup>の可能性とネットワークのITサービス環境 ([ETSI - Multi-access Edge Computing](https://www.etsi.org/technologies-clusters/technologies/multi-access-edge-computing))
   - [What Is Edge Computing, Multi-Access Edge Computing (MEC)? - SDxC](https://www.sdxcentral.com/edge/definitions/what-multi-access-edge-computing-mec/)
 - <span id="fnkw4">[w4]</span> : __エッジコンピューティング__
