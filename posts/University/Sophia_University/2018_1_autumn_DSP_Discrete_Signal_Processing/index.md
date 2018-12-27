@@ -50,8 +50,9 @@ $$
     - > $w(x) = 0.54 - 0.46 \cdot \cos \left( 2 \pi x \right) \ \ (\text{if} 0 < x \lt 1)$
 - <span id="fnkw3">[KW3]</span> : __パワースペクトル__
   - \begin{align*}
-      F(\omega) = {\mathscr F}\left[ x[n] \right](\omega) \\
-      
+      F(\omega) &= {\mathscr F}\left[ x[n] \right](\omega) \\
+      p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\
+                &= 20 \log_{10} |F(\omega)|
     \end{align*}.
     [周波数特性 - 信号処理 - ++C++; // 未確認飛行 C](https://ufcpp.net/study/sp/dsp/frequency/)
   - > 振幅特性$|F(\omega)|$そのものではなく,振幅の対数を取ったものがよく用いられます. デシベル[dB].
