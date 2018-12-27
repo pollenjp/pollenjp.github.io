@@ -44,5 +44,9 @@ $$
 - <span id="fnkw1">[KW1]</span> : __STFT (Short-Time Fourier Transform) 短時間フーリエ変換__
   - [短時間フーリエ変換(STFT) - numpyでスペクトログラムによる音楽信号の可視化 - Qiita](https://qiita.com/namaozi/items/dec1575cd455c746f597#%E7%9F%AD%E6%99%82%E9%96%93%E3%83%95%E3%83%BC%E3%83%AA%E3%82%A8%E5%A4%89%E6%8F%9Bstft)
   - > 関数に窓関数をずらしながら掛けて,それにフーリエ変換すること. ([短時間フーリエ変換 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%9F%AD%E6%99%82%E9%96%93%E3%83%95%E3%83%BC%E3%83%AA%E3%82%A8%E5%A4%89%E6%8F%9B))
+- <span id="fnkw2">[KW2]</span> : __ハミング窓__
+  - [ハミング窓 - 窓関数 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%AA%93%E9%96%A2%E6%95%B0#%E3%83%8F%E3%83%9F%E3%83%B3%E3%82%B0%E7%AA%93)
+    - > ハン窓と並び、最もよく使われる窓関数の一つ。ハン窓より周波数分解能が良く、ダイナミック・レンジが狭い。区間の両端で不連続なのが特徴。
+    - > $w(x) = 0.54 - 0.46 \cdot \cos \left( 2 \pi x \right) \ \ (\text{if} 0 < x \lt 1)$
 
 
