@@ -34,7 +34,7 @@ a = b
 $$
 
 \begin{align}
-  a &= b \\
+  a &= b \\\\
     &= c
 \end{align}
 
@@ -59,8 +59,8 @@ $$
   - [ケプストラム分析 - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20120211/1328964624)
 
 \begin{align*}
-  F(\omega) &= \left[ x[n] \right] (\omega) \\
-  p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\
+  F(\omega) &= \left[ x[n] \right] (\omega) \\\\
+  p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\\\
             &= 20 \log_{10} |F(\omega)|
 \end{align*}
 
