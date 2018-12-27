@@ -38,6 +38,16 @@ $$
     &= c
 \end{align}
 
+$$
+\begin{align}
+  a &= b \\
+    &= c
+\end{align}
+$$
+
+$$ \begin{align} a &= b \\ &= c \end{align} $$
+
+
 
 ## Key Word
 
