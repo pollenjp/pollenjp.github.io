@@ -61,13 +61,14 @@ $$ \begin{align} a &= b \\ &= c \end{align} $$
     - > $w(x) = 0.54 - 0.46 \cdot \cos \left( 2 \pi x \right) \ \ (\text{if} 0 < x \lt 1)$
 
 - <span id="fnkw3">[KW3]</span> : __パワースペクトル__
-  - $$
+  - \\
+    $$
     \begin{align*}
       F(\omega) &= \left[ x[n] \right] (\omega) \\
       p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\
                 &= 20 \log_{10} |F(\omega)|
     \end{align*}
-    $$
+    $$ \\
     [周波数特性 - 信号処理 - ++C++; // 未確認飛行 C](https://ufcpp.net/study/sp/dsp/frequency/)
   - > 振幅特性$|F(\omega)|$そのものではなく,振幅の対数を取ったものがよく用いられます. デシベル[dB].
     工学の分野では,振幅特性よりも,振幅を2乗したものをよく使います. 信号の振幅を電気的に測定した場合, その値は電圧[V]という形で得られます. 要するに,振幅の2乗というのは,電圧の2乗$=$電力[W]を表す値と言うことになります. そのため,振幅特性を2乗したものはパワースペクトル (power spectrum)と呼ばれる.
