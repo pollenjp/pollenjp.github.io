@@ -50,7 +50,7 @@ $$
     - > $w(x) = 0.54 - 0.46 \cdot \cos \left( 2 \pi x \right) \ \ (\text{if} 0 < x \lt 1)$
 - <span id="fnkw3">[KW3]</span> : __パワースペクトル__
   - \begin{align*}
-      F(\omega) &= {\mathscr F}\left[ x[n] \right](\omega) \\
+      F(\omega) &= \left[ x[n] \right] (\omega) \\
       p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\
                 &= 20 \log_{10} |F(\omega)|
     \end{align*}.
