@@ -83,7 +83,9 @@
     $$ \begin{align*}
     \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right) \cdot s 
       &= \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} s - \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s} s \\
-      &= \frac{1}{1-\frac{k}{n}}
+      &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} (s-1) - \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} s \\
+      &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} \\
+      &= \frac{1}{1-\frac{k}{n}}  (\because \text{無限等比級数})
     \end{align*} $$
     
 
