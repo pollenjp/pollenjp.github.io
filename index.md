@@ -22,6 +22,7 @@
 - [[20170626] C++で学ぶディープラーニング](https://book.mynavi.jp/ec/products/detail/id=72844)
 - [[20140718] 『ＯｐｅｎＣＶによる画像処理入門』（小枝　正直，上田　悦子，中村　恭之）｜講談社BOOK倶楽部](http://bookclub.kodansha.co.jp/product?item=0000148212)
 - [[2016]Pattern Recognition and Machine Learning - Christopher Bishop - Springer](https://www.springer.com/jp/book/9780387310732)
+  - [Microsoft download site](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 - [新編　画像解析ハンドブック - 東京大学出版会](http://www.utp.or.jp/book/b301997.html)
 - [[20160116]nginx実践入門 - Gihyo Digital Publishing 技術評論社の電子書籍](https://gihyo.jp/dp/ebook/2016/978-4-7741-7936-0)
 - [Discrete-time Signal Processing, 2nd, Second Edition (1999)](http://a.co/d/cTQd1HC)
