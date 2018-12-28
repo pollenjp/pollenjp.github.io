@@ -92,9 +92,10 @@
     $$ \begin{align*}
     & \sum_{k=0}^{n-1} \frac{1}{1-\frac{k}{n}} \\
       &= \frac{n}{n} + \frac{n}{n-1} + \frac{n}{n-2} + \cdots + \frac{n}{2} + \frac{n}{1} \\
-      &= n H_n \ \ \ \left( H_n = \sum_{k=1}^{n} \frac{1}{k} \right) \\
-      &\simeq n \log (n) \ \ \ \left( \sum_{k=1}^{n} \frac{1}{k} = n \log (n) \right) \text{<sup>[KW9](#fnkw9)</sup>}
+      &= n H_n \ \ \ \left( H_n := \sum_{k=1}^{n} \frac{1}{k} \right) \\
+      &\simeq n \log (n) \ \ \ \left( H_n = n \log (n) \right}
     \end{align*} $$ \\
+    $\sum_{k=1}^{n} \frac{1}{k} = n \log (n)$ <sup>[KW9](#fnkw9)</sup>.
     
 
 
