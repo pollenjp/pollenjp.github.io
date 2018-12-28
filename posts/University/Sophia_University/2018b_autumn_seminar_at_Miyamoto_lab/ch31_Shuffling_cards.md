@@ -26,7 +26,13 @@
 ## 箇条書き
 
 - "カードの束をランダムに並び替えるにはどれだけシャッフルすればよいか"
-  - __random process (不規則過程)__ <sup>[KW1](#fnkw1)</sup>
+  - __不規則過程__ <sup>[KW1](#fnkw1)</sup> ( __確率過程__ <sup>[KW2](#fnkw2)</sup>) の解析することは
+    数学においてだけでなく,生活においても知れたことである.
+    例えば,"通勤ラッシュ時に空港までどのくらい時間がかかるか"など.
+  - カードシャッフル問題
+    - カードの束のサイズを決める (n=52)
+    - シャッフルの仕方 (top-in-at-random, riffle shuffle)
+    - 
 
 
 ## Key Word
@@ -60,6 +66,9 @@
 - <span id="fnkw4">[KW4]</span> : __可測空間__
 - <span id="fnkw5">[KW5]</span> : __全順序集合__
 - <span id="fnkw6">[KW6]</span> : __$\sigma$ 加法族__
+  - > ([『パターン認識と機械学習の学習 普及版』（PDF）](https://herumi.github.io/prml/))
+- <span id="fnkw6">[KW6]</span> : __top-in-at-random__
+- <span id="fnkw6">[KW6]</span> : __riffle shuffle__
 
 
 
