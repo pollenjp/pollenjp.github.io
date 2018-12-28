@@ -24,18 +24,25 @@
 ## 箇条書き
 
 - "カードの束をランダムに並び替えるにはどれだけシャッフルすればよいか"
-  - 
+  - __random process (不規則過程)__ <sup>[KW1](#fnkw1)</sup>
 
 
 ## Key Word
 
 - <span id="fnkw1">[KW1]</span> : __random process__
-  - >  continuous or discrete. Real random process also called __stochastic process__ . 
+  - >  continuous or discrete. Real random process also called __stochastic process__ <sup>[KW2](#fnkw2)</sup> . 
     ([Chapter6_Dig_Random_Proc.ppt](https://web.sonoma.edu/users/f/farahman/sonoma/courses/ces540/lectures/Chapter6_Dig_Random_Proc.pdf))
-- __stochastic process (確率過程)__
+- <span id="fnkw2">[KW2]</span> : __stochastic process (確率過程)__
   - > 確率論において, __確率過程__ (かくりつかてい,英語: __stochastic process__ )は,時間とともに変化する確率変数のことである.
-     株価や為替の変動、ブラウン運動などの粒子のランダムな運動を数学的に記述する模型（モデル）として利用している. 
+     株価や為替の変動,ブラウン運動などの粒子のランダムな運動を数学的に記述する模型(モデル)として利用している. 
      __不規則過程__ (英語: __random process__ )とも言う. 
+    ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
+  - \\
+    > 確率空間 $( \Omega, {\mathcal F}, P )$, 可測空間 $(S, \Sigma)$, 全順序集合 $T$ が与えられたとき,
+    時刻 $T$ で添字つけられる状態空間 $S$ に値をとる確率過程 $X_t$ とは
+    $$
+    X: \Omega \time T \rightarrow S
+    $$
     ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
   - > The term random function is also used to refer to a stochastic or random process. 
     ([https://en.wikipedia.org/wiki/Stochastic_process](https://en.wikipedia.org/wiki/Stochastic_process))
