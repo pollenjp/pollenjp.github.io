@@ -43,7 +43,7 @@
       - __strong uniform time__
       - __Reed's inversion lemma__ ... the strong uniform time bounds the variation distance
       - シャッフル = "__reversed sorting__" という解釈
-      - 最終的にはすべてがとても古典的な二つの組み合わせ問題に帰結する. (例: カード収集・誕生日パラドクス)
+      - 最終的にはすべてがとても古典的な二つの組み合わせ問題に帰結する. (例: 切手コレクター・誕生日パラドクス)
 - The birthday paradox
   - $n$ : the number of random poeple
   - "全員の誕生日が異なる確率は？"
@@ -77,7 +77,21 @@
   - $n=366$のとき, $0.0$ ( __pigeon-hole principle__ より明らかではある.)
   - 証明：$i$番目の人までの誕生日が異なるとすると,$i+1$人目もそれまでの人と異なるためには,
     残りの$365-i$個の日にちのうちのどれかであればよいので,その確率は $\frac{365 - i}{365} = 1 - \frac{i}{365}$.
-
+- The coupon collector
+  - ある子供が$n$種類の異なる有名人の写真のうち一つが入っているパックを買うとする. そのパックは実際にあけるまで中が見えないようになっている.
+  - このとき,"$n$種類のうち,それぞれの写真を少なくとも一枚ずつ入手するには何枚のパックを買うのがよいか？"
+  - この問題は"n個の異なる球(ball)が入っているボール(bowl)から復元抽出した際,
+    それぞれの異なる球を少なくとも一個ずつ引くには平均何回試行すればよいか"という問題と同じ.
+  - もし,$k$個種類の異なる球を既に引いたとする. その次に引く球が新たな種類の球でない確率は $\frac{k}{n}$. 
+    よって,次のちょうど$s$回の試行によって,$s$回のうちはじめて新たな種類の球を引く確率は\\
+    $$\left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right)$$.\\
+    　故に,次に新たな種類の球を引くのに必要な試行回数は,\\
+    $$ \begin{align*}
+    \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right) \cdot s \\
+      &= \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} s - \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s} s \\
+      &= \frac{1}{1-\frac{k}{n}}
+    \end{align*} $$
+    
 
 
 ## Key Word
