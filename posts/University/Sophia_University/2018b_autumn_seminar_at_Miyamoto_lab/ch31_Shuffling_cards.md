@@ -48,17 +48,11 @@
   - $n$ : the number of random poeple
   - "全員の誕生日が異なる確率は？"
   - \\
-    $$
-    p(n) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{365} \right)
-    $$\\
+    $$ p(n) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{365} \right) $$\\
     枠をKで表すと\\
-    $$
-    p(n, K) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{K} \right)
-    $$
+    $$ p(n, K) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{K} \right) $$
   - $n=23$のとき\\
-    $$
-    p(23) = \prod\limits_{i=1}^{23-1} \left( 1 - \frac{i}{365} \right) \simeq 0.4927027656760145 < \frac{1}{2}
-    $$\\
+    $$ p(23) = \prod\limits_{i=1}^{23-1} \left( 1 - \frac{i}{365} \right) \simeq 0.4927027656760145 < \frac{1}{2} $$\\
     ```
     #!/usr/bin/python3
     # birthday paradox
@@ -87,7 +81,7 @@
     $$\left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right)$$.\\
     　故に,次に新たな種類の球を引くのに必要な試行回数は,\\
     $$ \begin{align*}
-    \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right) \cdot s \\
+    \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right) \cdot s 
       &= \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} s - \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s} s \\
       &= \frac{1}{1-\frac{k}{n}}
     \end{align*} $$
