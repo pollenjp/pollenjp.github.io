@@ -51,6 +51,20 @@
     $$
     p(n) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{365} \right)
     $$
+  - $n=23$のとき\\
+    $$
+    \prod\limits_{i=1}^{23-1} \left( 1 - \frac{i}{365} \right) \simeq 0.4927027656760145 < \frac{1}{2}
+    $$\\
+    ```
+    #!/usr/bin/python3
+    # birthday paradox
+    n = 23
+    K = 365
+    p = 1
+    for i in range(n):
+      p *= 1 - i / K
+    print(p)
+    ```
 
 
 ## Key Word
@@ -93,7 +107,6 @@
   - Jim Reeds (1981, unpublished)
   - [David John Aldous](https://en.wikipedia.org/wiki/David_Aldous)
   - [Persi Warren Diaconis](https://en.wikipedia.org/wiki/Persi_Diaconis)
-  - 
 
 
 
