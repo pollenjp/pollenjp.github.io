@@ -8,7 +8,7 @@
 - [posts](/posts)
   - University
     - Sophia_University
-      - [2018b_autumn_DSP_Discrete_Signal_Processing](/posts/University/Sophia_University/2018b_autumn_DSP_Discrete_Signal_Processing/index.html)
+      - [2018b_autumn_DSP_Discrete_Signal_Processing](/posts/University/Sophia_University/2018b_autumn_DSP_Discrete_Signal_Processing)
       - [2018b_autumn_seminar_at_Miyamoto_lab](/posts/University/Sophia_University/2018b_autumn_seminar_at_Miyamoto_lab)
         - [ch31_Shuffling_cards](/posts/University/Sophia_University/2018b_autumn_seminar_at_Miyamoto_lab/ch31_Shuffling_cards.md)
   - [index.md](/posts)
