@@ -41,7 +41,7 @@
     > 確率空間 $( \Omega, {\mathcal F}, P )$, 可測空間 $(S, \Sigma)$, 全順序集合 $T$ が与えられたとき,
     時刻 $T$ で添字つけられる状態空間 $S$ に値をとる確率過程 $X_t$ とは
     $$
-    X: \Omega \time T \rightarrow S
+    X: \Omega \times T \rightarrow S
     $$
     ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
   - > The term random function is also used to refer to a stochastic or random process. 
