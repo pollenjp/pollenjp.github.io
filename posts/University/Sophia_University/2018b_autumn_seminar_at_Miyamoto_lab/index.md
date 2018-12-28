@@ -26,7 +26,7 @@
 
 ## Contents
 - [Proofs from THE BOOK](https://www.springer.com/gp/book/9783662572641)
-  - Chapter31 - Shuffling cards
+  - [Chapter31 - Shuffling cards](./ch31_Shuffling_cards.md)
 
 
 なぜ英語の文書を扱うのか？
