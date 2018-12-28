@@ -50,6 +50,10 @@
   - \\
     $$
     p(n) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{365} \right)
+    $$\\
+    枠をKで表すと\\
+    $$
+    p(n, K) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{K} \right)
     $$
   - $n=23$のとき\\
     $$
@@ -58,13 +62,21 @@
     ```
     #!/usr/bin/python3
     # birthday paradox
+    def calculate_birthday_paradox_prob(n, K, p=1):
+      for i in range(1,n):
+        p *= 1 - i / K
+      return p
+    
     n = 23
     K = 365
     p = 1
-    for i in range(n):
-      p *= 1 - i / K
-    print(p)
+    p = calculate_birthday_paradox_prob(n=n, K=K, p=p)
+    print(p)  # output: 0.4927027656760145
     ```
+  - $n=42$のとき, $0.08596952843813076$
+  - $n=366$のとき, $0.0$ ( __pigeon-hole principle__ )
+  - 
+
 
 
 ## Key Word
