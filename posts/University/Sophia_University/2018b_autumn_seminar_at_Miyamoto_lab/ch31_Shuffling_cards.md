@@ -34,6 +34,23 @@
     - シャッフルの仕方 ( __top-in-at-random__ <sup>[KW7](#fnkw7)</sup>, __riffle shuffle__ <sup>[KW8](#fnkw8)</sup> )
     - ここで言う"ランダム"とは,”ランダムな状態に近い”ということを意味している.
   - このチャプターの目標
+    - __riffle shuffle__ <sup>[KW8](#fnkw8)</sup> の分析.
+    - この本では”52枚(n=52)のカードに対してランダムといえる状態にするためには,6回のリッフルシャッフルでは不十分であるが,
+      ７回のリッフルシャッフルで十分である”という最終的な結論に至るまでは扱わない.
+    - 今回は上限12枚に対して行う.
+    - 以下のきわめて美しい考え方を学ぶことにする
+      - __stopping rule__
+      - __strong uniform time__
+      - __Reed's inversion lemma__ ... the strong uniform time bounds the variation distance
+      - シャッフル = "__reversed sorting__" という解釈
+      - 最終的にはすべてがとても古典的な二つの組み合わせ問題に帰結する. (例: カード収集・誕生日パラドクス)
+- The birthday paradox
+  - $n$ : the number of random poeple
+  - "全員の誕生日が異なる確率は？"
+  - \\
+    $$
+    p(n) = \prod\limits_{i=1}^{n-1} \left( 1 - \frac{i}{365} \right)
+    $$
 
 
 ## Key Word
@@ -70,6 +87,13 @@
   - > ([『パターン認識と機械学習の学習 普及版』（PDF）](https://herumi.github.io/prml/))
 - <span id="fnkw7">[KW7]</span> : __top-in-at-random__
 - <span id="fnkw8">[KW8]</span> : __riffle shuffle__
+  - [シャッフル (カード) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB_(%E3%82%AB%E3%83%BC%E3%83%89)#%E3%83%AA%E3%83%95%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB)
+  - [Edgar Nelson Gilbert](https://en.wikipedia.org/wiki/Edgar_Gilbert) 
+  - [Claude Elwood Shannon (1955, unpublished)](https://en.wikipedia.org/wiki/Claude_Shannon)
+  - Jim Reeds (1981, unpublished)
+  - [David John Aldous](https://en.wikipedia.org/wiki/David_Aldous)
+  - [Persi Warren Diaconis](https://en.wikipedia.org/wiki/Persi_Diaconis)
+  - 
 
 
 
