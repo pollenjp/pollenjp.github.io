@@ -81,7 +81,7 @@
     $$\left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right)$$.\\
     　故に,次に新たな種類の球を引くのに必要な試行回数は,\\
     $$ \begin{align*}
-    \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right) \cdot s 
+    & \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} \cdot \left( 1 - \frac{k}{n} \right) \cdot s \\
       &= \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} s - \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s} s \\
       &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} (s-1) - \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} s \\
       &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} \\
