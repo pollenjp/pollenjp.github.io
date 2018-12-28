@@ -52,8 +52,8 @@
     > 1. $\Omega$ をある集合.
     > 1. ${\mathcal F}$ を $\Omega$ を含む $\Omega$ の部分集合で $\sigma$ 加法族<sup>[KW6](#fnkw6)</sup>であるもの.
     > 1. $P$ を ${\mathcal F}$ から実数全体 ${\mathbb R}$ への写像 $P: {\mathcal F} \rightarrow {\mathbb R}$ で次を満たすもの.
-    >   1.1. $P(E) \geq 0$
-    >   1.1. $E_1, E_2, \ldots$ が互いに素(共通部分を持たない)なら,$P( \cup_i E_i ) = \sum_i P(E_i)$ \\
+    >   - $P(E) \geq 0$
+    >   - $E_1, E_2, \ldots$ が互いに素(共通部分を持たない)なら,$P( \cup_i E_i ) = \sum_i P(E_i)$ \\
     ([『パターン認識と機械学習の学習 普及版』（PDF）](https://herumi.github.io/prml/))
 - <span id="fnkw4">[KW4]</span> : __可測空間__
 - <span id="fnkw5">[KW5]</span> : __全順序集合__
