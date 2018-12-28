@@ -40,7 +40,8 @@
      __不規則過程__ (英語: __random process__ )とも言う. 
     ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
   - \\
-    > 確率空間 $( \Omega, {\mathcal F}, P )$, 可測空間 $(S, \Sigma)$, 全順序集合 $T$ が与えられたとき,
+    > 確率空間<sup>[KW3](#fnkw3)</sup> [ $( \Omega, {\mathcal F}, P )$, 
+    可測空間<sup>[KW4](#fnkw4)</sup> $(S, \Sigma)$, 全順序集合<sup>[KW5](#fnkw5)</sup> $T$ が与えられたとき,
     時刻 $T$ で添字つけられる状態空間 $S$ に値をとる確率過程 $X_t$ とは
     $$ \begin{align*}
     X: \Omega \times T \rightarrow S
@@ -48,6 +49,11 @@
     ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
   - > The term random function is also used to refer to a stochastic or random process. 
     ([https://en.wikipedia.org/wiki/Stochastic_process](https://en.wikipedia.org/wiki/Stochastic_process))
+- <span id="fnkw3">[KW3]</span> : __確率空間__
+- <span id="fnkw4">[KW4]</span> : __可測空間__
+- <span id="fnkw5">[KW5]</span> : __全順序集合__
+
+
 
 
 
