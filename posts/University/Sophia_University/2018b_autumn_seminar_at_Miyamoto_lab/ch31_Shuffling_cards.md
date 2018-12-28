@@ -87,14 +87,15 @@
       &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} \\
       &= \frac{1}{1-\frac{k}{n}} \ \ \ (\because \text{無限等比級数}) \\
       &= \frac{n}{n-k}
-    \end{align*} $$
+    \end{align*} $$ \\
     　つまり,$n$個のそれぞれのボールの種類に対して引くべき回数の和をとればよいので,
     $$ \begin{align*}
     & \sum_{k=0}^{n-1} \frac{1}{1-\frac{k}{n}} \\
       &= \frac{n}{n} + \frac{n}{n-1} + \frac{n}{n-2} + \cdots + \frac{n}{2} + \frac{n}{1} \\
-      &= n H_n \ \ \ ( \sum_{k=1}^{n} \frac{1}{k} ) \\
-      &\simeq n \log n
-    \end{align*} $$
+      &= n H_n \ \ \ \left( H_n = \sum_{k=1}^{n} \frac{1}{k} \right) \\
+      &\simeq n \log (n) \ \ \ \left( \sum_{k=1}^{n} \frac{1}{k} = n \log (n) \right) \text{<sup>[KW9](#fnkw9)</sup>}
+    \end{align*} $$ \\
+    
 
 
 ## Key Word
@@ -137,6 +138,8 @@
   - Jim Reeds (1981, unpublished)
   - [David John Aldous](https://en.wikipedia.org/wiki/David_Aldous)
   - [Persi Warren Diaconis](https://en.wikipedia.org/wiki/Persi_Diaconis)
+- <span id="fnkw9">[KW9]</span> : $\sum_{k=1}^{n} \frac{1}{k} = n \log (n)$
+  - 証明 (page13)
 
 
 
