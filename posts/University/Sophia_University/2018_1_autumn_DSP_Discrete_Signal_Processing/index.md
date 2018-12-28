@@ -18,7 +18,7 @@
 
 # Discrete Signal Processing
 
-- [This page](/posts/University/Sophia_University/2018_1_autumn_DSP_Discrete_Signal_Processing/index.html)
+- [This page](./index.html)
 
 
 
