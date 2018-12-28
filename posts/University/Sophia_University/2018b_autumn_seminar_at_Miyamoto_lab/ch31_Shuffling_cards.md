@@ -85,9 +85,16 @@
       &= \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s-1} s - \sum_{s \geq 1} \left( \frac{k}{n} \right) ^{s} s \\
       &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} (s-1) - \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} s \\
       &= \sum_{s \geq 0} \left( \frac{k}{n} \right) ^{s} \\
-      &= \frac{1}{1-\frac{k}{n}}  (\because \text{無限等比級数})
+      &= \frac{1}{1-\frac{k}{n}} \ \ \ (\because \text{無限等比級数}) \\
+      &= \frac{n}{n-k}
     \end{align*} $$
-    
+    　つまり,$n$個のそれぞれのボールの種類に対して引くべき回数の和をとればよいので,
+    $$ \begin{align*}
+    & \sum_{k=0}^{n-1} \frac{1}{1-\frac{k}{n}} \\
+      &= \frac{n}{n} + \frac{n}{n-1} + \frac{n}{n-2} + \cdots + \frac{n}{2} + \frac{n}{1} \\
+      &= n H_n \ \ \ ( \sum_{k=1}^{n} \frac{1}{k} ) \\
+      &\simeq n \log n
+    \end{align*} $$
 
 
 ## Key Word
