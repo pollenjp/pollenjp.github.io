@@ -31,8 +31,9 @@
     例えば,"通勤ラッシュ時に空港までどのくらい時間がかかるか"など.
   - カードシャッフル問題
     - カードの束のサイズを決める (n=52)
-    - シャッフルの仕方 (top-in-at-random, riffle shuffle)
-    - 
+    - シャッフルの仕方 ( __top-in-at-random__ <sup>[KW7](#fnkw7)</sup>, __riffle shuffle__ <sup>[KW8](#fnkw8)</sup> )
+    - ここで言う"ランダム"とは,”ランダムな状態に近い”ということを意味している.
+  - このチャプターの目標
 
 
 ## Key Word
@@ -67,8 +68,8 @@
 - <span id="fnkw5">[KW5]</span> : __全順序集合__
 - <span id="fnkw6">[KW6]</span> : __$\sigma$ 加法族__
   - > ([『パターン認識と機械学習の学習 普及版』（PDF）](https://herumi.github.io/prml/))
-- <span id="fnkw6">[KW6]</span> : __top-in-at-random__
-- <span id="fnkw6">[KW6]</span> : __riffle shuffle__
+- <span id="fnkw7">[KW7]</span> : __top-in-at-random__
+- <span id="fnkw8">[KW8]</span> : __riffle shuffle__
 
 
 
