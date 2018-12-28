@@ -88,7 +88,7 @@
       &= \frac{1}{1-\frac{k}{n}} \ \ \ (\because \text{無限等比級数}) \\
       &= \frac{n}{n-k}
     \end{align*} $$ \\
-    　つまり,$n$個のそれぞれのボールの種類に対して引くべき回数の和をとればよいので,
+    　つまり,$n$個のそれぞれのボールの種類に対して引くべき回数の和をとればよいので,\\
     $$ \begin{align*}
     & \sum_{k=0}^{n-1} \frac{1}{1-\frac{k}{n}} \\
       &= \frac{n}{n} + \frac{n}{n-1} + \frac{n}{n-2} + \cdots + \frac{n}{2} + \frac{n}{1} \\
