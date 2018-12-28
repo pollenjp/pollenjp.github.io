@@ -102,7 +102,7 @@
 ## Key Word
 
 - <span id="fnkw1">[KW1]</span> : __random process__
-  - >  continuous or discrete. Real random process also called __stochastic process__ <sup>[KW2](#fnkw2)</sup> . 
+  - > __stochastic process__ <sup>[KW2](#fnkw2)</sup> と同義. 
     ([Chapter6_Dig_Random_Proc.ppt](https://web.sonoma.edu/users/f/farahman/sonoma/courses/ces540/lectures/Chapter6_Dig_Random_Proc.pdf))
 - <span id="fnkw2">[KW2]</span> : __stochastic process (確率過程)__
   - > 確率論において, __確率過程__ (かくりつかてい,英語: __stochastic process__ )は,時間とともに変化する確率変数のことである.
