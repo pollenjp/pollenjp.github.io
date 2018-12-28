@@ -40,18 +40,24 @@
      __不規則過程__ (英語: __random process__ )とも言う. 
     ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
   - \\
-    > 確率空間<sup>[KW3](#fnkw3)</sup> [ $( \Omega, {\mathcal F}, P )$, 
+    > 確率空間<sup>[KW3](#fnkw3)</sup> $( \Omega, {\mathcal F}, P )$, 
     可測空間<sup>[KW4](#fnkw4)</sup> $(S, \Sigma)$, 全順序集合<sup>[KW5](#fnkw5)</sup> $T$ が与えられたとき,
-    時刻 $T$ で添字つけられる状態空間 $S$ に値をとる確率過程 $X_t$ とは
-    $$ \begin{align*}
-    X: \Omega \times T \rightarrow S
-    \end{align*} $$
+    時刻 $T$ で添字つけられる状態空間 $S$ に値をとる確率過程 $X_t$ とは \\
+    $$ X: \Omega \times T \rightarrow S $$ \\
     ([確率過程 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B))
   - > The term random function is also used to refer to a stochastic or random process. 
     ([https://en.wikipedia.org/wiki/Stochastic_process](https://en.wikipedia.org/wiki/Stochastic_process))
 - <span id="fnkw3">[KW3]</span> : __確率空間__
+  - > 確率空間 $( \Omega, {\mathcal F}, P )$ とは以下から成る三組のことである.
+    1. $\Omega$ をある集合.
+    1. ${\mathcal F}$ を $\Omega$ を含む $\Omega$ の部分集合で $\sigma$ 加法族<sup>[KW6](#fnkw6)</sup>であるもの.
+    1. $P$ を ${\mathcal F}$ から実数全体 ${\mathbb R}$ への写像 $P: {\mathcal F} \rightarrow {\mathbb R}$ で次を満たすもの.
+      1. $P(E) \geq 0$
+      1. $E_1, E_2, \ldots$ が互いに素(共通部分を持たない)なら,$P( \cup_i E_i ) = \sum_i P(E_i)$
+    ([『パターン認識と機械学習の学習 普及版』（PDF）](https://herumi.github.io/prml/))
 - <span id="fnkw4">[KW4]</span> : __可測空間__
 - <span id="fnkw5">[KW5]</span> : __全順序集合__
+- <span id="fnkw6">[KW6]</span> : __$\sigma$ 加法族__
 
 
 
