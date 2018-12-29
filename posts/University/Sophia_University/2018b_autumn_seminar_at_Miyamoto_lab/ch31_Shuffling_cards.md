@@ -109,6 +109,9 @@
       &\leq \sum_{i=1}^n \text{Prob} \left[ A_i \right] \\
       &= n \left( 1 - \frac{1}{n} \right) ^m \\
       &< n e ^{- \frac{m}{n}} \\
+      &= n e ^{- \frac{n \log (n) + cn}{n}} \\
+      &= n e ^{- \log (n)} e ^{- c} \\
+      &= n n^{-1} e ^{- c} \\
       &\leq e^{-c}
     \end{align*} $$
 
