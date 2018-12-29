@@ -167,10 +167,8 @@
     $$ \begin{align*}
     & \lim_{n \to \infty} \left( 1 - \frac{1}{n} \right)^n \\
       &= \lim_{n \to \infty} \left( \left( \left( 1 - \frac{1}{n} \right)^n \right)^{-1} \right)^{-1} \\
-      &= \lim_{n \to \infty} \left( \left( \left( 1 - \frac{1}{n} \right)^{-1} \right)^n \right)^{-1} \\
-      &= \left( \lim_{n \to \infty} \frac{1}{1 - \frac{1}{n}} \right)^n \right)^{-1} \\
-      &= \left( \lim_{n \to \infty} \left( \frac{n}{n-1} \right)^n \right)^{-1} \\
-      &= \left( \lim_{n \to \infty} \left( 1 + \frac{1}{n-1} \right)^n \right)^{-1} \\
+      &= \left( \lim_{n \to \infty} \left( 1 + \frac{1}{n-1} \right) 
+        \cdot \lim_{n \to \infty} \left( 1 + \frac{1}{n-1} \right)^{n-1} \right)^{-1} \\
       &= \left( 1 \cdot e \right)^{-1}
     \end{align*} $$ \\
     　また, $\left( 1 - \frac{1}{n} \right)^n$ は $n$ に関する増加関数. 
