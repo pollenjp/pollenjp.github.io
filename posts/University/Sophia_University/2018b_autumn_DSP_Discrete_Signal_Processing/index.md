@@ -21,10 +21,6 @@
 - [This page](./index.html)
 
 
-
-
-
-
 ## 数式テスト
 
 $\boldsymbol{aaa}$
@@ -47,6 +43,9 @@ $$
 
 $$ \begin{align} a &= b \\ &= c \end{align} $$
 
+
+## サイト情報
+- [MATLABで学ぶディジタル信号処理の基礎](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/)
 
 
 ## Key Word
@@ -75,5 +74,7 @@ $$ \begin{align} a &= b \\ &= c \end{align} $$
     [周波数特性 - 信号処理 - ++C++; // 未確認飛行 C](https://ufcpp.net/study/sp/dsp/frequency/)
   - __対数振幅スペクトル__
   - [ケプストラム分析 - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20120211/1328964624)
+- <span id="fnkw4">[KW4]</span> : __パワースペクトル密度 (power spectrum density)__
+  - ([What is a Power Spectral Density (PSD)? - Siemens PLM Community](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/What-is-a-Power-Spectral-Density-PSD/ta-p/360969))
 
 
