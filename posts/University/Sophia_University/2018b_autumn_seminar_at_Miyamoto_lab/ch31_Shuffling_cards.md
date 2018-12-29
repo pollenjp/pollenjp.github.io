@@ -108,12 +108,13 @@
       &= \text{Prob} \left[ \bigcup_{i=1}^n A_i \right] \\
       &\leq \sum_{i=1}^n \text{Prob} \left[ A_i \right] \\
       &= n \left( 1 - \frac{1}{n} \right) ^m \\
-      &< n e ^{- \frac{m}{n}} \ \ \ ( \because <sup>[KW8](#fnkw8)</sup> )\\
+      &< n e ^{- \frac{m}{n}} \ \ \ ( \because \text{以下の※参照} )\\
       &= n e ^{- \frac{n \log (n) + cn}{n}} \\
       &= n e ^{- \log (n)} e ^{- c} \\
       &= n n^{-1} e ^{- c} \\
       &\leq e^{-c}
-    \end{align*} $$
+    \end{align*} $$ \\
+    ※<sup>[KW8](#fnkw8)</sup>
 
 
 ## Key Word
