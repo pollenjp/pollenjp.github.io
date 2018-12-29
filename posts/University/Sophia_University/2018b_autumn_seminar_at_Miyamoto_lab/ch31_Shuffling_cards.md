@@ -114,7 +114,9 @@
       &= n n^{-1} e ^{- c} \\
       &\leq e^{-c}
     \end{align*} $$ \\
-    ※<sup>[KW8](#fnkw8)</sup>
+    ※<sup>[KW10](#fnkw10)</sup>
+  - $n$ 枚のカードについて,上から順に $1, 2, \ldots, n$ とナンバリングする.
+  - ${\mathfrak S}_n$
 
 
 ## Key Word
