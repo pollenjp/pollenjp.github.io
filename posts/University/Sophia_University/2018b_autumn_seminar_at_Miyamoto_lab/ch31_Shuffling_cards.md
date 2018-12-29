@@ -95,8 +95,13 @@
       &= n H_n \ \ \ \left( H_n := \sum_{k=1}^{n} \frac{1}{k} \right) \\
       &\simeq n \log (n) \ \ \ \left( \because H_n = n \log (n) \right)
     \end{align*} $$ \\
-    $\sum_{k=1}^{n} \frac{1}{k} = n \log (n)$ <sup>[KW9](#fnkw9)</sup>.
-    
+    \\
+    ※ $\sum_{k=1}^{n} \frac{1}{k} = n \log (n)$ <sup>[KW9](#fnkw9)</sup>.
+  - 　$n \log (n)$ 以上かかる確率を見積る.\\
+    　$V_n$ : $n$個引くのにかかった試行回数\\
+    つまり,$E[V_n] \simeq n \log (n)$.\\
+    　ここで,$n \geq 1, c \geq 0$ とすれば,必要な試行回数が $m := \lceil n \log (n) + cn \rceil$ より大きくなる確率は\\
+    $$ \text{Prob} \left[ V_n > m \right] \leq e^{-c}$$
 
 
 ## Key Word
