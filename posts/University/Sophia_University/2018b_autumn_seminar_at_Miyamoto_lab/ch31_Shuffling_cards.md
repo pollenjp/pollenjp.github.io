@@ -102,14 +102,14 @@
     　ここで,$n \geq 1, c \geq 0$ とすれば,必要な試行回数が $m := \lceil n \log (n) + cn \rceil$ より大きくなる確率は\\
     $$ \text{Prob} \left[ V_n > m \right] \leq e^{-c}$$
   - 証明: \'
-    $A_i$ : 球$i$が最初の$m$回の試行で引けなかい事象とすると,\\
+    $A_i$ : 球$i(=1, 2, \ldots, n)$が最初の$m$回の試行で引けない事象とすると,\\
     $$ \begin{align*}
-    \text{Prob} \left[ V_n > m \right] \\
-      &= \text{Prob} \left[ \cup_i A_i \right] \\
-      &\leq \sum_{i} \text{Prob} \left[ A_i \right] \\
+    & \text{Prob} \left[ V_n > m \right] \\
+      &= \text{Prob} \left[ \cup\limits_{i=i}^n A_i \right] \\
+      &\leq \sum_{i=i}^n \text{Prob} \left[ A_i \right] \\
       &= n \left( 1 - \frac{1}{n} \right) ^m \\
       &< n e ^{- \frac{m}{n}} \\
-      &\leq \leq e^{-c}
+      &\leq e^{-c}
     \end{align*} $$
 
 
