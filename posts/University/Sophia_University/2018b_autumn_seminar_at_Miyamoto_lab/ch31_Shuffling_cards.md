@@ -160,15 +160,19 @@
   - 証明 (page13)
 - <span id="fnkw10">[KW10]</span> : $\left( 1 - \frac{1}{n} \right)^n < \frac{1}{n}$
   - 証明: \\
-    $$ e := \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n $$\\
+    ネイピア数 $ e := \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n $\\
     $$ \begin{align*}
     & \lim_{n \to \infty} \left( 1 - \frac{1}{n} \right)^n \\
-      &= \lim_{n \to \infty}
-    \end{align*} $$
-
-
-
-
+      &= \lim_{n \to \infty} \left( \left( \left( 1 - \frac{1}{n} \right)^n \right)^{-1} \right)^{-1} \\
+      &= \lim_{n \to \infty} \left( \left( \left( 1 - \frac{1}{n} \right)^{-1} \right)^n \right)^{-1} \\
+      &= \lim_{n \to \infty} \left( \left( \frac{1}{1 - \frac{1}{n}} \right)^n \right)^{-1} \\
+      &= \lim_{n \to \infty} \left( \left( \frac{n}{n-1} \right)^n \right)^{-1} \\
+      &= \lim_{n \to \infty} \left( \left( 1 + \frac{1}{n-1} \right)^n \right)^{-1} \\
+      &= \lim_{n \to \infty} \left( \left( 1 + \frac{1}{n-1} \right) \cdot \left( 1 + \frac{1}{n-1} \right)^{n-1} \right)^{-1} \\
+      &= \left( 1 \cdot e \right)^{-1}
+    \end{align*} $$ \\
+    　また, $\left( 1 - \frac{1}{n} \right)^n$ は $n$ に関する増加関数. 
+    よって, $\left( 1 - \frac{1}{n} \right)^n$ は $\frac{1}{e}$ に漸近的に近づく.(Q.E.D.)
 
 
 
