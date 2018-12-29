@@ -116,7 +116,7 @@
     \end{align*} $$ \\
     ※<sup>[KW10](#fnkw10)</sup>
   - $n$ 枚のカードについて,上から順に $1, 2, \ldots, n$ とナンバリングする.
-  - ${\mathfrak S}_n$
+  - ${\mathfrak S}_n$ を $1, \ldots, n$ の置換(permutation)とする.
 
 
 ## Key Word
