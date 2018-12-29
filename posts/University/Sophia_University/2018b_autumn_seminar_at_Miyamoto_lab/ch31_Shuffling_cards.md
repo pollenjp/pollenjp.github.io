@@ -185,6 +185,6 @@
     \end{align*} $$ \\
     　また, $\left( 1 - \frac{1}{n} \right)^n$ は $n$ に関する増加関数. 
     よって, $\left( 1 - \frac{1}{n} \right)^n$ は $\frac{1}{e}$ に漸近的に近づく.(Q.E.D.)
-
+- __Top-in-at-random shffles__ <sup>[KW7](#fnkw7)</sup>
 
 
