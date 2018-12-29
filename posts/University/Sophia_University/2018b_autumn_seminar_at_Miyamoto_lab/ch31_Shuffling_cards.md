@@ -117,6 +117,13 @@
     ※<sup>[KW10](#fnkw10)</sup>
   - $n$ 枚のカードについて,上から順に $1, 2, \ldots, n$ とナンバリングする.
   - ${\mathfrak S}_n$ を $1, \ldots, n$ の置換(permutation)とする.
+  - カードの束をシャッフルするということは何かしらのランダムな置換をカードの順番に適用したものに過ぎない.
+  - 　理想的には,初期順序 $(1, 2, \ldots, n)$ に対する任意の置換 $\pi \in {\mathfrak S}_n$ を考えればよく,
+    各置換の発生確率は等確率で $\frac{1}{n!}$ (一様分布).
+    ゆえに,置換 $\pi = \left( \pi (1), \pi (2), \ldots, \pi (n) \right)$ 一回の操作で,ランダムな状態にすることができる.
+  - 　しかし,現実はそうではない.　シャッフルによって起こし得る置換は限られていて, 
+    おそらく置換の発生確率は等しいわけではない(一様分布ではない).
+    この条件の下で置換が何回か繰り返される. その結果がランダムに近い状態であることが望ましい.
 
 
 ## Key Word
@@ -173,7 +180,8 @@
       &= \left( \lim_{n \to \infty} \left( 1 + \frac{1}{n-1} \right)^n \right)^{-1} \\
       &= \left( \lim_{n \to \infty} \left( 1 + \frac{1}{n-1} \right) 
         \cdot \lim_{n \to \infty} \left( 1 + \frac{1}{n-1} \right)^{n-1} \right)^{-1} \\
-      &= \left( 1 \cdot e \right)^{-1}
+      &= \left( 1 \cdot e \right)^{-1} \\
+      &= e^{-1}
     \end{align*} $$ \\
     　また, $\left( 1 - \frac{1}{n} \right)^n$ は $n$ に関する増加関数. 
     よって, $\left( 1 - \frac{1}{n} \right)^n$ は $\frac{1}{e}$ に漸近的に近づく.(Q.E.D.)
