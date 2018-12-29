@@ -64,7 +64,7 @@ $$ \begin{align} a &= b \\ &= c \end{align} $$
   - \\
     $$
     \begin{align*}
-      F(\omega) &= \left[ x[n] \right] (\omega) \\
+      F(\omega) &= {\mathscr F} \left[ x[n] \right] (\omega) \\
       p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\
                 &= 20 \log_{10} |F(\omega)|
     \end{align*}
@@ -75,14 +75,5 @@ $$ \begin{align} a &= b \\ &= c \end{align} $$
     [周波数特性 - 信号処理 - ++C++; // 未確認飛行 C](https://ufcpp.net/study/sp/dsp/frequency/)
   - __対数振幅スペクトル__
   - [ケプストラム分析 - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20120211/1328964624)
-
-$$
-\begin{align*}
-  F(\omega) &= \left[ x[n] \right] (\omega) \\
-  p(\omega) &= 10 \log_{10} |F(\omega)|^2 \\
-            &= 20 \log_{10} |F(\omega)|
-\end{align*}
-$$
-
 
 
