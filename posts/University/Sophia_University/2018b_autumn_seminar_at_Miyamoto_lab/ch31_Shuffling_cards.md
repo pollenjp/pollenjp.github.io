@@ -108,7 +108,7 @@
       &= \text{Prob} \left[ \bigcup_{i=1}^n A_i \right] \\
       &\leq \sum_{i=1}^n \text{Prob} \left[ A_i \right] \\
       &= n \left( 1 - \frac{1}{n} \right) ^m \\
-      &< n e ^{- \frac{m}{n}} \\
+      &< n e ^{- \frac{m}{n}} \ \ \ ( \because <sup>[KW8](#fnkw8)</sup> )\\
       &= n e ^{- \frac{n \log (n) + cn}{n}} \\
       &= n e ^{- \log (n)} e ^{- c} \\
       &= n n^{-1} e ^{- c} \\
@@ -158,6 +158,13 @@
   - [Persi Warren Diaconis](https://en.wikipedia.org/wiki/Persi_Diaconis)
 - <span id="fnkw9">[KW9]</span> : $\sum_{k=1}^{n} \frac{1}{k} = n \log (n)$
   - 証明 (page13)
+- <span id="fnkw10">[KW10]</span> : $\left( 1 - \frac{1}{n} \right)^n < \frac{1}{n}$
+  - 証明: \\
+    $$ e := \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n $$\\
+    $$ \begin{align*}
+    & \lim_{n \to \infty} \left( 1 - \frac{1}{n} \right)^n \\
+      &= \lim_{n \to \infty}
+    \end{align*} $$
 
 
 
