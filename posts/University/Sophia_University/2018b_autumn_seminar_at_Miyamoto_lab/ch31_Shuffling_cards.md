@@ -105,7 +105,7 @@
     $A_i$ : 球$i(=1, 2, \ldots, n)$が最初の$m$回の試行で引けない事象とすると,\\
     $$ \begin{align*}
     & \text{Prob} \left[ V_n > m \right] \\
-      &= \text{Prob} \left[ \cup\limits_{i=i}^n A_i \right] \\
+      &= \text{Prob} \left[ \cup\limit_{i=i}^n A_i \right] \\
       &\leq \sum_{i=i}^n \text{Prob} \left[ A_i \right] \\
       &= n \left( 1 - \frac{1}{n} \right) ^m \\
       &< n e ^{- \frac{m}{n}} \\
