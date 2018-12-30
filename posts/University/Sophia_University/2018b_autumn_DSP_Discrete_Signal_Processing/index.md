@@ -50,11 +50,13 @@
   > 複素指数関数の観点からは $\cos (\omega n), \sin (\omega n)$ は
   > __正の周波数 $\omega$__ と __負の周波数 $- \omega$__ の2つの周波数をもっていると考える必要がある.
   > 　このことは $\cos (\omega n), \sin (\omega n)$ が周波数 $\omega$ の複素指数関数 $e^{j \omega n}$ と
-  > 周波数 $- \omega$ の複素指数関数 $e^{- j \omega n}$ の線形結合により表せることから理解できる.
+  > 周波数 $- \omega$ の複素指数関数 $e^{- j \omega n}$ の線形結合により表せることから理解できる. \\
   > $$ \begin{align*}
       \cos (\omega n) &= \frac{1}{2} \left( e^{j \omega n} + e^{- j \omega n} \right)\\
       \sin (\omega n) &= \frac{1}{2} \left( e^{j \omega n} - e^{- j \omega n} \right)
-    \end{align*} $$
+    \end{align*} $$ \\
+  > 　このため, 後に説明される信号の離散時間フーリエ変換やディジタルフィルタの周波数応答の計算と表示において,
+  > 正と負の双方の周波数領域を考慮している.
 
 
 ## サイト情報
