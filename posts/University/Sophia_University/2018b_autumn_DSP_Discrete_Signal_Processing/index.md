@@ -21,27 +21,30 @@
 - [This page](./index.html)
 
 
-## 数式テスト
+## 信号の基礎
 
-$\boldsymbol{aaa}$
+- [MATLABで学ぶディジタル信号処理の基礎](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/)
+  - > 以下の論文は，信号処理学会誌 ``Journal of Signal Processing ''に2001年1月 から12月まで連載されたものを許可を得て，掲載しています．
+  - [第１回 離散時間信号とフーリエ変換(pdf)](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/pdf/matdsp1.pdf)
+  - [第２回 離散フーリエ変換と高速フーリエ変換(pdf)](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/pdf/matdsp2.pdf)
+  - [第３回 ディジタルフィルタ(pdf)](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/pdf/matdsp3.pdf)
+  - [第４回 FIRフィルタの設計(pdf)](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/pdf/matdsp4.pdf)
+  - [第５回 IIRフィルタの設計(pdf)](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/pdf/matdsp5.pdf)
+  - [第６回 2次元ディジタル信号処理(pdf)](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/pdf/matdsp6.pdf)
 
-$$
-a = b
-$$
 
-\begin{align}
-  a &= b \\\\
-    &= c
-\end{align}
+### 第１回 離散時間信号とフーリエ変換
 
-$$
-\begin{align}
-  a &= b \\
-    &= c
-\end{align}
-$$
+- 連続時間信号 $x(t)$
+- 離散時間信号. 今回は時間間隔 $T=1$ とする.
 
-$$ \begin{align} a &= b \\ &= c \end{align} $$
+
+#### 4.2 三角関数と複素指数関数
+
+- 余弦波($\cos (\omega n)$), 正弦波($\sin (\omega n)$)
+- $\omega$ : 角周波数
+- 以下に __オイラーの公式__ を示す.\\
+  $$ e^{j \omega n} = \cos (\omega n) + j \sin (\omega n)$$
 
 
 ## サイト情報
