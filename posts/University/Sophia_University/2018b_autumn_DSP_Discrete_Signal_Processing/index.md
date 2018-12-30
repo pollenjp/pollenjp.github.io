@@ -44,7 +44,8 @@
 - 余弦波($\cos (\omega n)$), 正弦波($\sin (\omega n)$)
 - $\omega$ : 角周波数
 - 以下に __オイラーの公式__ を示す.\\
-  $$ e^{j \omega n} = \cos (\omega n) + j \sin (\omega n)$$
+  $$ e^{j \omega n} = \cos (\omega n) + j \sin (\omega n)$$\\
+  > 複素指数関数は，後に示す離散時間フーリエ変換やディジタルフィルタの周波数応答を定義するための核となる信号として重要.
 
 
 ## サイト情報
