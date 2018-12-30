@@ -46,7 +46,7 @@
 - 以下に __オイラーの公式__ を示す.\\
   $$e^{j \omega n} = \cos (\omega n) + j \sin (\omega n)$$\\
   > 複素指数関数は，後に示す離散時間フーリエ変換やディジタルフィルタの周波数応答を定義するための核となる信号として重要.
-- > 　余弦波($\cos (\omega n)$), 正弦波($\sin (\omega n)$) は周波数 $\omega$ の関数であるが,
+- > 　余弦波($\cos (\omega n)$), 正弦波($\sin (\omega n)$) は周波数 $\omega {\mathrm [rad]}$  の関数であるが,
   > 複素指数関数の観点からは $\cos (\omega n), \sin (\omega n)$ は
   > __正の周波数 $\omega$__ と __負の周波数 $- \omega$__ の2つの周波数をもっていると考える必要がある.
   > 　このことは $\cos (\omega n), \sin (\omega n)$ が周波数 $\omega$ の複素指数関数 $e^{j \omega n}$ と
