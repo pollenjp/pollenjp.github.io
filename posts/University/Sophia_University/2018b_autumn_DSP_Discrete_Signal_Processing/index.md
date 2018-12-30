@@ -46,9 +46,15 @@
 - 以下に __オイラーの公式__ を示す.\\
   $$e^{j \omega n} = \cos (\omega n) + j \sin (\omega n)$$\\
   > 複素指数関数は，後に示す離散時間フーリエ変換やディジタルフィルタの周波数応答を定義するための核となる信号として重要.
-- 余弦波($\cos (\omega n)$), 正弦波($\sin (\omega n)$) は周波数 $\omega$ の関数であるが,
-  複素指数関数の観点からは $\cos (\omega n), \sin (\omega n)$ は
-  __正の周波数 $\omega$__ と __負の周波数 $- \omega$__ の2つの周波数をもっていると考える必要がある.
+- > 　余弦波($\cos (\omega n)$), 正弦波($\sin (\omega n)$) は周波数 $\omega$ の関数であるが,
+  > 複素指数関数の観点からは $\cos (\omega n), \sin (\omega n)$ は
+  > __正の周波数 $\omega$__ と __負の周波数 $- \omega$__ の2つの周波数をもっていると考える必要がある.
+  > 　このことは $\cos (\omega n), \sin (\omega n)$ が周波数 $\omega$ の複素指数関数 $e^{j \omega n}$ と
+  > 周波数 $- \omega$ の複素指数関数 $e^{- j \omega n}$ の線形結合により表せることから理解できる.
+  > $$ \begin{align*}
+      \cos (\omega n) &= \frac{1}{2} \left( e^{j \omega n} + e^{- j \omega n} \right)\\
+      \sin (\omega n) &= \frac{1}{2} \left( e^{j \omega n} - e^{- j \omega n} \right)
+    \end{align*} $$
 
 
 ## サイト情報
@@ -77,7 +83,8 @@
     $$ \\
     [周波数特性 - 信号処理 - ++C++; // 未確認飛行 C](https://ufcpp.net/study/sp/dsp/frequency/)
   - > 振幅特性$|F(\omega)|$そのものではなく,振幅の対数を取ったものがよく用いられます. デシベル[dB].
-    工学の分野では,振幅特性よりも,振幅を2乗したものをよく使います. 信号の振幅を電気的に測定した場合, その値は電圧[V]という形で得られます. 要するに,振幅の2乗というのは,電圧の2乗$=$電力[W]を表す値と言うことになります. そのため,振幅特性を2乗したものはパワースペクトル (power spectrum)と呼ばれる.
+    工学の分野では,振幅特性よりも,振幅を2乗したものをよく使います. 信号の振幅を電気的に測定した場合, その値は電圧[V]という形で得られます. 
+    要するに,振幅の2乗というのは,電圧の2乗$=$電力[W]を表す値と言うことになります. そのため,振幅特性を2乗したものはパワースペクトル (power spectrum)と呼ばれる.
     [周波数特性 - 信号処理 - ++C++; // 未確認飛行 C](https://ufcpp.net/study/sp/dsp/frequency/)
   - [Spectrum Representations — Matplotlib 3.0.2 documentation](https://matplotlib.org/gallery/lines_bars_and_markers/spectrum_demo.html)
   - __対数振幅スペクトル__
