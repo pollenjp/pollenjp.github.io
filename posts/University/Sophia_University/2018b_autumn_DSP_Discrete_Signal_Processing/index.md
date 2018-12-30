@@ -81,6 +81,8 @@ $$ \begin{align*}
   \angle X(e^{j \omega} ) &: \text{位相スペクトル} \\
 \end{align*}$$
 
+> 　$x[n]$ が様々な周波数の複素指数関数の重ね合わせによって構成されるとき, $x[n]$ を構成する複素指数関数の中で
+> 周波数の複素指数関数の振幅は $|X( e^{j \omega} )|$ であり,位相は $\angle X( e^{j \omega} )$ である.
 
 ## サイト情報
 - [MATLABで学ぶディジタル信号処理の基礎](http://www.mk.ecei.tohoku.ac.jp/jspmatlab/)
