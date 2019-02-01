@@ -37,8 +37,8 @@
   - http://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml
   - [C++11/14 コア言語【委託】 - 達人出版会](https://tatsu-zine.com/books/cpp-11-14-core)
 - [◯◯くんのために一所懸命書いたものの結局◯◯くんの卒業に間に合わなかった GLFW による OpenGL 入門 (draft 版) - 和歌山大学システム工学部 床井浩平](http://marina.sys.wakayama-u.ac.jp/~tokoi/GLFWdraft.pdf)
-
-
+- [[20151226] GNU Make 3rd JP](https://www.oreilly.co.jp/library/4873112699/)
+  - https://github.com/jr4qpv/GNU_Make_3rd_jp
 
 [<img width="100px" src="/img/20180223-試して理解Linuxのしくみ.png" alt="">](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
 [<img width="100px" src="/img/20170626-C++で学ぶディープラーニング.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=72844)
@@ -52,6 +52,7 @@
 [<img width="100px" src="/img/20160608_強くなるロボティック・ゲームプレイヤーの作り方プレミアムブックス版実践で学ぶ強化学習.png" alt="">](https://book.mynavi.jp/ec/products/detail/id=52804)
 [<img width="100px" src="/img/20150925_C++11・14コア言語.png" alt="">](http://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml)
 [<img width="100px" src="/img/◯◯くんのために一所懸命書いたものの結局◯◯くんの卒業に間に合わなかった GLFW による OpenGL 入門 (draft 版) - 和歌山大学システム工学部 床井浩平.png" alt="">](http://marina.sys.wakayama-u.ac.jp/~tokoi/GLFWdraft.pdf)
+[<img width="100px" src="/img/20151226-GNU Make 3rd.png" alt="">](https://www.oreilly.co.jp/library/4873112699/)
 
 
 ### Want to Read
