@@ -107,3 +107,12 @@
 - [medium](https://medium.com/)
 
 <a class="twitter-timeline" data-width="500" data-height="750" href="https://twitter.com/polleninjp?ref_src=twsrc%5Etfw">Tweets by polleninjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+## 雑記
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ぼくのPCはこれ<br>35万でまあまあ安くなってる<a href="https://t.co/byxCFV7S6D">https://t.co/byxCFV7S6D</a></p>&mdash; pollenJP(@?ω?@)@OS自作ゼミのお荷物 (@polleninjp) <a href="https://twitter.com/polleninjp/status/1099567819065241600?ref_src=twsrc%5Etfw">2019年2月24日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
