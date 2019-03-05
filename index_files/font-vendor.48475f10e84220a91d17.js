@@ -1,0 +1,1 @@
+webpackJsonp(["font-vendor"],{"./public/css/font.css":function(s,c){}},["./public/css/font.css"]);
