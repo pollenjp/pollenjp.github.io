@@ -2018,8 +2018,9 @@ input, select, textarea {
             }
 
             .item header .link {
+                padding: 0.5em 0.5em 0.5em 0;  /* top right bottom left */
                 font-size: 0.8em;
-                line-height: 100%;
+                line-height: 110%;
                 text-align: right;
             }
 
