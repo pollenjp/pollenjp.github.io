@@ -2009,8 +2009,20 @@ input, select, textarea {
         }
 
             .item header h3 {
-                font-size: 1em;
+                font-size: 1.2em;
             }
+            
+            .item header p {
+                font-size: 0.8em;
+                line-height: 100%;
+            }
+
+            .item header .link {
+                font-size: 0.8em;
+                line-height: 100%;
+                text-align: right;
+            }
+
 
 /* Icons */
 
