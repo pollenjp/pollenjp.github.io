@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        // html
+        "**/*.html": "html",
+        "**/_includes/**/*.html": "html",
+        "**/_layouts/**/*.html": "html",
+    },
+    "liquid.format": true,
+    "[liquid]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid",
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid",
+        "editor.formatOnSave": true
+    },
+}
