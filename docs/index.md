@@ -8,7 +8,7 @@ author: pollenjp
 
 <ul>
   {% for a_page in site.html_pages %}
-    {% if a_page.title != site.title %}
+    {% if a_page.title != page.title %}
       <li>
         <a href="{{ site.github.url }}{{ a_page.url }}">{{ a_page.title }}</a>
       </li>
