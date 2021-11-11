@@ -4,6 +4,13 @@ title: Home
 author: pollenjp
 ---
 
+<h1>{{ page.title }}</h1>
+
+- Portfolio: <https://scrapbox.io/pollenJP-Portfolio/README>
+- Twitter: <https://twitter.com/polleninjp>
+- GitHub: <https://github.com/pollenjp>
+- Qiita: <https://qiita.com/pollenjp>
+
 ## Pages
 
 <ul>
