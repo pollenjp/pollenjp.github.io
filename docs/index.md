@@ -34,3 +34,7 @@ author: pollenjp
     </li>
   {% endfor %}
 </ul>
+
+## tmp
+
+<https://gist.githubusercontent.com/pollenjp/61fe55080f9f6f3f5ff6433f8bc8e146/raw/15352553c4b29e462f69886dbf0548175ff2f71f/install-python-script.sh>
