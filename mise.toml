@@ -1,0 +1,17 @@
+[tools]
+node = "24.4.1"
+
+[tasks.install]
+run = 'npm install'
+sources = ['package.json', 'package-lock.json']
+outputs = ['node_modules/**/*']
+
+[tasks.build]
+run = 'npm run build'
+depends = ['install']
+sources = ['src/**/*', "index.html"]
+outputs = ['dist/**/*']
+
+[tasks.dev]
+run = 'npm run dev'
+depends = ['install']
