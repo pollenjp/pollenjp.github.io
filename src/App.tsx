@@ -14,7 +14,9 @@ function App() {
         <li>
           <a href="https://scrapbox.io/pollenJP-Portfolio/README">Portfolio</a>
         </li>
-        <li></li>
+        <li>
+          <a href="https://pollenjp.github.io/career-timeline">Career Timeline</a>
+        </li>
       </ul>
       <h2 style={{ textAlign: 'left' }}>経歴</h2>
       <Graph />
